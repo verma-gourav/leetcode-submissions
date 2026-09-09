@@ -30,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/verma-gourav/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/verma-gourav/leetcode-submissions/tree/master/0383-ransom-note) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/verma-gourav/leetcode-submissions/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/verma-gourav/leetcode-submissions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
