@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/verma-gourav/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/verma-gourav/leetcode-submissions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/verma-gourav/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/verma-gourav/leetcode-submissions/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/verma-gourav/leetcode-submissions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/verma-gourav/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/verma-gourav/leetcode-submissions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/verma-gourav/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/verma-gourav/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/verma-gourav/leetcode-submissions/tree/master/0290-word-pattern) |
@@ -55,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/verma-gourav/leetcode-submissions/tree/master/0383-ransom-note) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/verma-gourav/leetcode-submissions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/verma-gourav/leetcode-submissions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
