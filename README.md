@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/verma-gourav/leetcode-submissions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/verma-gourav/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/verma-gourav/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/verma-gourav/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/verma-gourav/leetcode-submissions/tree/master/0202-happy-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/verma-gourav/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/verma-gourav/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/verma-gourav/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/verma-gourav/leetcode-submissions/tree/master/0242-valid-anagram) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/verma-gourav/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/verma-gourav/leetcode-submissions/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
