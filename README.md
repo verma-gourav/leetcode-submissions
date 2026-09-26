@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/verma-gourav/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/verma-gourav/leetcode-submissions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/verma-gourav/leetcode-submissions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/verma-gourav/leetcode-submissions/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/verma-gourav/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/verma-gourav/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/verma-gourav/leetcode-submissions/tree/master/0290-word-pattern) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/verma-gourav/leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/verma-gourav/leetcode-submissions/tree/master/0071-simplify-path) |
 ## Bracket Sequences
 |  |
 | ------- |
