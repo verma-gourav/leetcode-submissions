@@ -7,15 +7,37 @@
 class Solution:
     def sumNumbers(self, root: TreeNode | None) -> int:
 
-        def dfs(node: TreeNode | None, curr_sum: int):
-            if not node:
-                return 0
+        # def dfs(node: TreeNode | None, curr_sum: int):
+        #     if not node:
+        #         return 0
+
+        #     curr_sum = curr_sum * 10 + node.val
+
+        #     if not node.left and not node.right:
+        #         return curr_sum
+            
+        #     return dfs(node.left, curr_sum) + dfs(node.right, curr_sum)
+            
+        # return dfs(root, 0)
+
+        # ------------------------------------------------------------------ #
+
+        if not root:
+            return 0
+        
+        total_sum = 0
+        stack = [(root, 0)]
+        while stack:
+            node, curr_sum = stack.pop()
 
             curr_sum = curr_sum * 10 + node.val
 
             if not node.left and not node.right:
-                return curr_sum
+                total_sum += curr_sum
             
-            return dfs(node.left, curr_sum) + dfs(node.right, curr_sum)
-            
-        return dfs(root, 0)
+            if node.right:
+                stack.append((node.right, curr_sum))
+            if node.left:
+                stack.append((node.left, curr_sum))
+        
+        return total_sum
