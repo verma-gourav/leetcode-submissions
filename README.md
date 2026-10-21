@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/verma-gourav/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/verma-gourav/leetcode-submissions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/verma-gourav/leetcode-submissions/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/verma-gourav/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/verma-gourav/leetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/verma-gourav/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/verma-gourav/leetcode-submissions/tree/master/0290-word-pattern) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/verma-gourav/leetcode-submissions/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/verma-gourav/leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/verma-gourav/leetcode-submissions/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/verma-gourav/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/verma-gourav/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/verma-gourav/leetcode-submissions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/verma-gourav/leetcode-submissions/tree/master/0383-ransom-note) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/verma-gourav/leetcode-submissions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/verma-gourav/leetcode-submissions/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/verma-gourav/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/verma-gourav/leetcode-submissions/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/verma-gourav/leetcode-submissions/tree/master/0208-implement-trie-prefix-tree) |
 ## Tree
 |  |
 | ------- |
