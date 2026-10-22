@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/verma-gourav/leetcode-submissions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/verma-gourav/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/verma-gourav/leetcode-submissions/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/verma-gourav/leetcode-submissions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/verma-gourav/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/verma-gourav/leetcode-submissions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/verma-gourav/leetcode-submissions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -266,5 +267,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/verma-gourav/leetcode-submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/verma-gourav/leetcode-submissions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/verma-gourav/leetcode-submissions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
